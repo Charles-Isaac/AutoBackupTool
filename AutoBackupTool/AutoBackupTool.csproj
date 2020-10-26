@@ -78,11 +78,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompressionHelper.cs" />
-    <Compile Include="CrcHelper.cs" />
     <Compile Include="EncryptionHelper.cs" />
     <Compile Include="Extension.cs" />
-    <Compile Include="FileFolderSaveFormat.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
